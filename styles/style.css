@@ -1,10 +1,14 @@
-p {
-    color: red;
-    width: 500px;
-    border: 1px solid black;
-}
-
 html {
     font-size: 65px;
-    font-family: 'Cinzel', serif;
+    font-family: "Cinzel", serif;
 }
+h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+  
+  p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }

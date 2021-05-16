@@ -2,13 +2,24 @@ html {
     font-size: 65px;
     font-family: "Cinzel", serif;
 }
+
 h1 {
     font-size: 60px;
     text-align: center;
-  }
-  
-  p, li {
-    font-size: 16px;
+}
+ 
+h2 {
+    font-size: 55;
+    text-align: center;
+}
+
+p, li {
+    font-size: 33;
     line-height: 2;
     letter-spacing: 1px;
-  }
+    text-align: center;
+}
+
+img {
+    align-self: center;
+}

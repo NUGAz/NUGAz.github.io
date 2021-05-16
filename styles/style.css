@@ -1,3 +1,10 @@
 p {
     color: red;
+    width: 500px;
+    border: 1px solid black;
+}
+
+html {
+    font_size: 65px;
+    font-family: 'Cinzel', serif;
 }

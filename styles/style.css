@@ -14,16 +14,24 @@ h2 {
 }
 
 p, ul{
-    font-size: 26;
+    font-size: 60;
     line-height: 2;
     letter-spacing: 1px;
     text-align: center;
 }
 
-li {
-    font-size: 20;
-    display: inline-block;
+ul{
+    font-size: 50;
+    line-height: 2;
+    letter-spacing: 1px;
+    text-align: center;
+    list-style: inside;
 }
+
+li {
+    font-size: 40px;
+}
+
 img {
     display: block;
     margin-left: auto;
